@@ -99,7 +99,7 @@
     },
     "PackageUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/{JOE_GITHUB_ORG}/{JOE_REPOSITORY}/raw/main/deploy/source.zip",
+      "defaultValue": "https://github.com/joesecurity/Outlook-Add-in/raw/refs/heads/main/source.zip",
       "metadata": {
         "description": "URL of the add-in package (source.zip) to deploy."
       }
