@@ -118,7 +118,7 @@ The **Joe Sandbox Email Analysis** add-in enables users to:
 
 1. Click the button below to deploy the Web App to your Azure subscription:
 
-   [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F%7BJOE_GITHUB_ORG%7D%2F%7BJOE_REPOSITORY%7D%2Fmain%2Fdeploy%2Fazuredeploy.json)
+   [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoesecurity%2FOutlook-Add-in%2Fmain%2Fazuredeploy.json)
 
 2. On the **Custom deployment** page, fill in the parameters:
 
